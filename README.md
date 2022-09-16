@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdrianSo17
+- 👋 Hi, I’m Adrian Jake So
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Front-end web development
 - 💞️ I’m looking to collaborate on everyone
